@@ -6,6 +6,9 @@ print("printing the math module")
 print(dir(math))
 print("printing functions from random module")
 print(dir(random))
+print("calling dir with no arguments")
+print(dir())
+
 
 print("printing the random float")
 print(random.random())
