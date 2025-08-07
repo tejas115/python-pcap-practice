@@ -8,6 +8,9 @@ print("printing functions from random module")
 print(dir(random))
 print("calling dir with no arguments")
 print(dir())
+# print("printing the number module")
+# print (dir(number))
+
 
 
 print("printing the random float")
