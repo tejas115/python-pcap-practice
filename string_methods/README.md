@@ -1,10 +1,11 @@
+
 # String Methods
 
 This folder contains Python programs that demonstrate various string manipulation techniques and methods. The examples are designed for learning and practicing string operations in Python.
 
 ## Contents
 
-- `sorting.py`: Shows how to sort characters in a string and perform arithmetic and concatenation operations using sorted results. The script demonstrates converting between types and combining values for different outcomes.
+- `sorting.py`: Demonstrates sorting characters in a string, type conversion between strings and numbers, and string concatenation. The script covers how to use `sorted()` on strings, convert between types for arithmetic, and combine values for different outcomes.
 
 ## Usage
 
@@ -14,7 +15,7 @@ Each Python file can be run independently. For example:
 python sorting.py
 ```
 
-The output will display results of arithmetic and string operations using sorted string data.
+The output will display results of arithmetic and string operations using sorted string data, type conversions, and concatenation.
 
 ## Purpose
 
