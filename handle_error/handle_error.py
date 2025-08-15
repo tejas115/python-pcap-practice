@@ -6,6 +6,7 @@ def division():
 
 #rewrite the code so that all if/elif/else statements are replaced by a try/except code block. Use two named exceptions and one unnamed.
     try:
+        print("resource open")
         print(float(number1) / float(number2))
         return
     except ZeroDivisionError as zde:
@@ -18,6 +19,7 @@ def division():
         print("something went wrong, try again:", e)
         division()  # retry
 
-
+    finally:
+        print("resource closed")
 
 division()
