@@ -1,0 +1,50 @@
+"What are your biggest pain points with infrastructure or reliability that slow down product delivery?"
+
+Resiliency, - lagging behind.
+system application, identity, resiliency in everything. 
+resiliency location - tooling
+Secrets management - identity management. 
+Pain points.
+
+
+"How do you currently handle deployment and release processes? What works well and what's frustrating?"
+
+Understanding their current workflow to improve it
+Pros - tooling - many 
+cons - different behaves differently
+using it properly - every 6 months - new tools - right tool - step partners - we balances out - 
+fit into JPMC - small scale - controlled requirements - 
+
+"What would success look like from your perspective for an SRE partnership?"
+
+Aligning on shared outcomes
+
+
+
+Service Level & Expectations:
+
+"How do you typically prefer to work with SRE teams? Embedded, consultative, or on-demand?"
+
+Shows flexibility and collaboration focus
+Strategic - my opinion - feature development team, task - validate - dev, uat, prod.
+production - deploy - SRE - validating UAT - dev - 
+
+
+"What kind of visibility do you need into system reliability and performance?"
+
+Understanding their monitoring and reporting needs
+
+
+
+Future Partnership:
+
+"What upcoming product initiatives would benefit most from SRE involvement early in the planning?"
+
+Proactive partnership approach
+
+
+"How can SRE help you move faster while maintaining the security and compliance requirements for PAM systems?"
+
+Shows understanding of their constraints
+
+
