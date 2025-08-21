@@ -43,10 +43,11 @@ lap2 = s2.laptop
 
 
 
-print(lap1.display_info())
-print(lap2.display_info())
+lap1.display_info() 
+lap2.display_info()
 
 # create object of inner class outside the outer class provided you use the outer class name to call it.
+# you can have a stand alone instance of inner class Laptop without having an outer class associated with it. 
 
 lap3 = Student.Laptop("Lenovo", "ThinkPad X1")
 print(lap3.display_info())

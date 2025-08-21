@@ -1,3 +1,6 @@
+# creates a subclass Rose, a rose object and a default spring season. 
+# Print the rose's season and its class name.
+
 class Flower:
     def __init__(self, petals=False, thorns=False, color=False):
         self.petals = petals
