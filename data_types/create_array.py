@@ -48,3 +48,6 @@ print(f"Array 9: {arr9}")
 
 arr10 = ones((5, int(2)))  # float array - one way to create array. generate a 5x2 array of ones
 print(f"Array 10: {arr10}")
+
+arr11 = ones(5, int) # int array - one way to create array. generate a 5x2 array of ones
+print(f"Array 11: {arr11}")
