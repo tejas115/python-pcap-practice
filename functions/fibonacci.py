@@ -14,7 +14,6 @@ def fibonacci(n):
             b = c
             print(c, end=" ")
 
-
 n = int(input("Enter a number: "))
 fibonacci(n)
 print()
