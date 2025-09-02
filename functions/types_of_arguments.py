@@ -1,6 +1,7 @@
 def person(name, age=18):
     print(name, age)
 
+# variable length arguments
 def sum(*b):
     c = 0
     for i in b:
