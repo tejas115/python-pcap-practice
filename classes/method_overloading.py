@@ -19,3 +19,7 @@ class Student:
 
 s1 = Student(59.0, 68.0)
 print(s1.sum(5, 6))
+
+print(s1.sum(5, 6, 7))
+
+print(s1.sum(5))
