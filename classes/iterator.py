@@ -32,12 +32,16 @@ class TopTen:
     
 values = TopTen()
 print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
-print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+# print(next(values))
+
+# will only print 1 once because of iteration
+for i in values:
+    print(i)
