@@ -6,4 +6,8 @@ def counter(n):
 
 
 c = counter(3)
-print(next(c), next(c), next(c), next(c))
+# print(next(c), next(c), next(c), next(c))
+
+
+for i in c:
+    print(f"i: {i}")
